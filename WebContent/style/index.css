@@ -1,0 +1,37 @@
+@CHARSET "utf-8";
+#main{
+	width:1200px;
+	border:1px solid #aaaaaa;
+	margin:auto;	
+	padding: 10%
+}
+
+#top{
+	width:100%;
+	border:1px solid #bbbbbb;
+	border-radius:10px 10px;
+	box-shadow: 7px 7px 15px;
+	height:100px;
+	vertical-align: center;
+	size:37pt;
+	
+}
+
+#center{
+	width:100%
+	
+	vertical-align: top;
+}
+
+#left{
+	width:230px;
+	border:1px solid #dddddd;
+	vertical-align: top;
+	display:inline-block;
+}
+#content{
+	width:800px;
+	border:1px solid #dddddd;
+	vertical-align: top;
+	display:inline-block;
+}
